@@ -11,7 +11,6 @@ require (
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
 	github.com/stretchr/testify v1.3.0
 )
-
 replace github.com/louisrdev/intentionally-vulnerable-golang-project/sub1 => ./sub1
 
 replace github.com/louisrdev/intentionally-vulnerable-golang-project/sub2 => ./sub2
